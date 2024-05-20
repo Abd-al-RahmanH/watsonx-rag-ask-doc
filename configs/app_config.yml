@@ -21,7 +21,7 @@ llm_config:
     "
     temperature: 0.2
     max_token: 2040
-    genai_api_key: <IBM WatsonX API Key>
+    genai_api_key: Qa70OkhanSi5PVicpaSeB96h6QAtMz0Cam_h487h2GpY
     genai_model_id: meta-llama/llama-3-70b-instruct
 
 summarizer_config:
